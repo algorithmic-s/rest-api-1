@@ -1,6 +1,6 @@
 
     description: 
-* REST API built using Node.js and Express
+* REST APIs built using Node.js and Express
 
 
     steps:
